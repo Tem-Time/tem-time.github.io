@@ -3,31 +3,10 @@
     padding: 0;
 }
 
-h1 {
+img.tem {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-align: center;
-    font-style: italic;
-}
-
-.General {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
-.tem {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     width: 30%;
-}
-
-body {
-    padding: 30px;
 }
 
 nav {
