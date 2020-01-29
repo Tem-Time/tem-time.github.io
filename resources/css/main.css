@@ -80,7 +80,7 @@ html {
 }
 
 html {
-  background: #0e1a25;
+  /* background: #0e1a25; */
   font-size: 0.625em;
 }
 
@@ -116,14 +116,14 @@ html {
   border-radius: 100%;
   color: #0e1a25;
   fill: #0e1a25;
-  -webkit-transform: scale(.5);
-          transform: scale(.5);
+  -webkit-transform: scale(.65);
+          transform: scale(.65);
   -webkit-transition: background-color 0.5s, -webkit-transform 0.5s ease-out;
   transition: background-color 0.5s, -webkit-transform 0.5s ease-out;
   transition: background-color 0.5s, transform 0.5s ease-out;
   transition: background-color 0.5s, transform 0.5s ease-out, -webkit-transform 0.5s ease-out;
 }
-
+/*
 
 .icon-8 {
   color: #6ed926;
@@ -188,3 +188,4 @@ html {
 .icon-28:hover {
   background: #d9266e;
 }
+*/
